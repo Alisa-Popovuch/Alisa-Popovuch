@@ -22,8 +22,9 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://simpleicons.org/icons/javascript.svg" alt="java script" width="30px"/>
   <img src="https://simpleicons.org/icons/figma.svg" alt="figma" width="30px"/>
   <img src="https://simpleicons.org/icons/bootstrap.svg" alt="bootstrap" width="30px"/>
-  <img src="
 </div>
+
+- :left_speech_bubble: I am open to new offers regarding work and internships.
 
 
 
