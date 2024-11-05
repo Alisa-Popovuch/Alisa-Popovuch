@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="" target="_blank">Alisa</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1E5EC6&width=553&lines=Front-end+Web+Developer+from+Germany" alt="Typing SVG" /></a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alisa-Popovuch&style=flat-square&color=blue" alt="" width="140px"/>
+</div>
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVmMnFuaDk5YXJxNHRjYzhxdDMxbjlwbTJhc3lhM2UxNDc1cTU4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" width="270px" alt="programming"/>
+</div>
 
-<!--
-**Alisa-Popovuch/Alisa-Popovuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
