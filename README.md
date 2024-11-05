@@ -10,3 +10,13 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVmMnFuaDk5YXJxNHRjYzhxdDMxbjlwbTJhc3lhM2UxNDc1cTU4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" width="270px" alt="programming"/>
 </div>
 
+---
+
+### :woman_technologist: About Me :
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, currently living in Germany.
+- :woman_student: I'm studying now React;
+- :woman_technologist: I have these skills:
+  -
+
+
+
