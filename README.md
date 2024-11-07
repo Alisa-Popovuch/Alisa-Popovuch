@@ -15,13 +15,19 @@
 ### :woman_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, currently living in Germany.
 - :woman_student: I'm studying now React;
-- 💻: I have these skills:
- <div align="center">
+- 💻 Languages and Tools what I now:
+ <div align="center" justify-content="space-around">
    <img src="https://simpleicons.org/icons/html5.svg" alt="html" width="30px"/>
   <img src="https://simpleicons.org/icons/css3.svg" alt="css" width="30px"/>
   <img src="https://simpleicons.org/icons/javascript.svg" alt="java script" width="30px"/>
   <img src="https://simpleicons.org/icons/figma.svg" alt="figma" width="30px"/>
   <img src="https://simpleicons.org/icons/bootstrap.svg" alt="bootstrap" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="git width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="github" width="35px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" alt="codepen" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-plain.svg" alt="netlify" width="35px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="30px"/>
 </div>
 
 - :left_speech_bubble: I am open to new offers regarding work and internships.
