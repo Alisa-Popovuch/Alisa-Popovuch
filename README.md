@@ -12,11 +12,9 @@
 
 ---
 
-
- 
-    [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
+<div align="center">
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
+</div>
 
 ---
 
@@ -49,7 +47,11 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
  ---
 
- <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<div align="center">
+ 
+### Thank you for taking the time to view my profile!
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="500px" height="300px"/>
+</div>
 
  
 
