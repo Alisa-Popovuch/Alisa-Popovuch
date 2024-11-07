@@ -12,6 +12,14 @@
 
 ---
 
+
+ 
+    [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+
+---
+
 ### :woman_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, currently living in Germany.
 - :woman_student: I'm studying now React;
@@ -38,6 +46,10 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
  ---
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisa-Popovuch&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+ ---
+
+ <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
  
 
